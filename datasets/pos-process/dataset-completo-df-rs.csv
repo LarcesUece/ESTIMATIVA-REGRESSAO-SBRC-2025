@@ -1,0 +1,3 @@
+Timestamp_cubic,Vazao_cubic,Vazao_bbr,Atraso(ms),Hop_count,Bottleneck,Link_bottleneck
+1720860196,602093182.0,912526640.0,17.04,5,10,mg-df
+1720873149,874044501.0,912526640.0,16.65,5,10,mg-df
